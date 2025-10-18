@@ -158,7 +158,7 @@ export default function MasadaSystems() {
                 </div>
                 <div className="flex items-center space-x-2">
                   <CheckCircle className="w-5 h-5 text-cyan-400" />
-                  <span>Years Government and Military Experience</span>
+                  <span>15 Years Government and Military Experience</span>
                 </div>
               </div>
               <button 
